@@ -1,7 +1,7 @@
 
 function Projects(){
     return(
-    <section>
+    <section className="space-y-4 [&_article]:rounded-lg [&_article]:border [&_article]:p-4 [&_article]:transition [&_article]:hover:border-indigo-400 [&_article]:hover:shadow [&_h3]:font-semibold [&_a]:text-indigo-700 [&_a]:hover:underline [&_p]:text-slate-600">
       <h2>Projects</h2>
       <article>
         <h3><a href="https://github.com/gamekersol/Floating-Graden" rel="noopener">Floating Garden</a></h3>
